@@ -12,8 +12,8 @@ require (
 	github.com/zalando/go-keyring v0.2.1
 	golang.org/x/crypto v0.0.0-20220408190544-5352b0902921
 	golang.org/x/net v0.0.0-20220407224826-aac1ed45d8e3
-	golang.org/x/sys v0.0.0-20220408201424-a24fb2fb8a0f
-	golang.org/x/text v0.3.7
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8
 	www.velocidex.com/golang/go-ese v0.1.0
 )
 
@@ -21,9 +21,6 @@ require (
 	github.com/Velocidex/json v0.0.0-20220224052537-92f3c0326e5a // indirect
 	github.com/Velocidex/yaml/v2 v2.2.8 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gonuts/binary v0.2.0 // indirect
-	github.com/smartystreets/goconvey v1.6.4 // indirect
-	gopkg.in/ini.v1 v1.62.0 // indirect
 )
